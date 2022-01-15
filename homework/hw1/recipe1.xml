@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe>
+    <image location="background" content="example of tart recipe with serving suggestions"/>
+    <quotation>The sweet frangipane filling with almonds is a lovely addition and really bring these little tarts to whole new flavour level. </quotation>
+    <title>Apple Frangipane Tart</title>
+    <section>Ingredients</section>
+    <content>3/4 cup almond meal 1 1/2 tbsp plain flour 1/4cup sugar...</content>
+    <instructions>
+        <paragraph>Preheat the oven to 200degrees C. Place the pastry on a lined oven tray to thaw. Cut 1 sheet into 4 squares...</paragraph>
+        <paragraph>For frangipane filling, cream the sugar...</paragraph>
+        <paragraph>Spread the frangipane evenly...</paragraph>
+        <paragraph>Brush with melted butter and sprinkle...</paragraph>
+    </instructions>
+</recipe>
