@@ -1,0 +1,9 @@
+---
+layout: default
+title: "Homework"
+date: 2022-01-22
+---
+<h1>{{ page.title }}</h2>
+<ul class="posts">
+<li><a href="homework/hw2">Homework 2</a></li>
+</ul>
