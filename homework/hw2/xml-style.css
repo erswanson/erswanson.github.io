@@ -1,0 +1,50 @@
+* {
+    display:block;
+}
+
+lb {
+    line-height: 20px;
+}
+
+[rendition~="#center"] {
+    text-align: center;
+}
+
+[rendition~="#x-large"] {
+    font-size: 200%;
+}
+
+space[quantity="1"] {padding:10px;}
+
+
+
+
+docTitle[rendition~="#center"] {
+    text-align: center;
+}
+
+titlePart.hi[rendition~="#x-large#uppercase"] {
+    font-size: 200%;
+}
+titlePart.hi [rendition~="#small#uppercase"] {
+font-size:50%;}
+
+titlePart.hi[rendition~="#red#xx-large#uppercase"] {
+color:red;font-size:400%; }
+
+titlePart.hi[rendition~="#uppercase"] {}
+
+titlePart.hi[rendition~="#red#x-large"] {
+color:red;font-size:200%}
+
+docImprint [rendition~="#center#uppercase"] {
+    text-align:center;
+}
+docImprint.publisher [rendition~="#red#expanded"] {
+color:red;}
+
+docImprint.docDate [when~="1904"] [rendition~="#small"] {
+    font-size:50%
+}
+
+
