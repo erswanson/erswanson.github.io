@@ -27,21 +27,22 @@ titlePart.hi[rendition~="#x-large#uppercase"] {
     font-size: 200%;
 }
 titlePart.hi [rendition~="#small#uppercase"] {
-font-size:50%;}
+font-size:50%;text-transform:uppercase;}
 
 titlePart.hi[rendition~="#red#xx-large#uppercase"] {
-color:red;font-size:400%; }
+color:red;font-size:400%;text-transform:uppercase }
 
-titlePart.hi[rendition~="#uppercase"] {}
+titlePart.hi[rendition~="#uppercase"] {
+text-transform:uppercase}
 
 titlePart.hi[rendition~="#red#x-large"] {
 color:red;font-size:200%}
 
 docImprint [rendition~="#center#uppercase"] {
-    text-align:center;
+    text-align:center;text-transform:uppercase
 }
 docImprint.publisher [rendition~="#red#expanded"] {
-color:red;}
+color:red;letter-spacing:2px}
 
 docImprint.docDate [when~="1904"] [rendition~="#small"] {
     font-size:50%
