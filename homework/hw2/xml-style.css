@@ -1,6 +1,6 @@
 @font-face{
 font-family:ChanticleerRoman; 
-src: url("/css/CHANTICL.ttf") format("truetype")}
+src: url("https://erswanson.github.io/css/CHANTICL.ttf") format("truetype")}
 
 
 * {
@@ -30,21 +30,26 @@ docTitle[rendition~="#center"] {
 
 titlePart[type="main"]
 
-titlePart.hi[rendition~="#x-large#uppercase"] {
-    font-size: 200%;
+titlePart.hi[rendition~="#xlarge#uppercase"] {
+    font-size: 200%;text-transform:uppercase;
 }
 titlePart.hi.lb.space [dim~="#vertical"][unit~="#line"]
 [quantity="1"] {padding:10px;}
 
-titlePart.hi [rendition~="#small#uppercase"] {
-font-size:50%;text-transform:uppercase;}
+titlePart.hi[rendition~="#small#uppercase"] {
+    font-size: 50%;text-transform:uppercase;
+}
+
+
+titlePart.hi[rendition~="#red#xxlarge#uppercase"] {
+color:red;font-size:400% ;text-transform:uppercase }
 
 titlePart.hi.lb.space.hi.lb.space 
 [dim~="#vertical"][unit~="#line"]
 [quantity="1"] {padding:10px;}
 
-titlePart.hi[rendition~="#red#xx-large#uppercase"] {
-color:red;font-size:400%;text-transform:uppercase }
+titlePart.hi [rendition~="#large#uppercase"] {
+font-size:100%;text-transform:uppercase;}
 
 titlePart.hi.lb.space.hi.lb.space.hi.lb.space 
 [dim~="#vertical"][unit~="#line"]
