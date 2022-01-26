@@ -1,0 +1,63 @@
+@font-face{
+font-family:ChanticleerRoman; 
+src: url("https://erswanson.github.io/css/CHANTICL.ttf") format("truetype")}
+
+
+* {
+    display:block;
+}
+
+lb {
+    line-height: 20px;
+}
+
+[rendition~="#center"] {
+    text-align: center;
+}
+
+[rendition~="#uppercase"] {text-transform:uppercase;}
+
+[rendition~="#x-large"] {
+    font-size: 140%;
+}
+
+[rendition~="#large"] {
+    font-size: 100%;
+}
+
+[rendition~="#small"] {
+    font-size: 60%;
+}
+
+[rendition~="#xx-large"] {
+    font-size: 200%;
+}
+
+[rendition~="#red"] {
+    color:red;
+}
+
+space[quantity="1"] {padding:8px;}
+
+
+space[quantity="3"] {padding:30px;}
+
+
+space[quantity="4"] {padding:40px;}
+
+
+space[quantity="5"] {padding:80px;}
+
+
+titlePage{font-family:'ChanticleerRoman'}
+
+
+[rendition~="#expanded"] {
+letter-spacing:6px}
+
+
+docDate::before {
+  content: "1904";font-size:200%
+}
+
+
