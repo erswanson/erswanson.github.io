@@ -1,6 +1,6 @@
 @font-face{
 font-family:ChanticleerRoman; 
-src: url("https://erswanson.github.io/css/CHANTICL.ttf") format("truetype")}
+src: url("/css/CHANTICL.ttf") format("truetype")}
 
 
 * {
@@ -15,77 +15,49 @@ lb {
     text-align: center;
 }
 
+[rendition~="#uppercase"] {text-transform:uppercase;}
+
 [rendition~="#x-large"] {
+    font-size: 140%;
+}
+
+[rendition~="#large"] {
+    font-size: 100%;
+}
+
+[rendition~="#small"] {
+    font-size: 60%;
+}
+
+[rendition~="#xx-large"] {
     font-size: 200%;
 }
 
-space[quantity="1"] {padding:10px;}
+[rendition~="#red"] {
+    color:red;
+}
+
+space[quantity="1"] {padding:8px;}
+
+
+space[quantity="3"] {padding:30px;}
+
+
+space[quantity="4"] {padding:40px;}
+
+
+space[quantity="5"] {padding:80px;}
 
 
 titlePage{font-family:'ChanticleerRoman'}
 
-docTitle[rendition~="#center"] {
-    text-align: center;
-}
 
-titlePart[type="main"]
-
-titlePart.hi[rendition~="#xlarge#uppercase"] {
-    font-size: 200%;text-transform:uppercase;
-}
-titlePart.hi.lb.space [dim~="#vertical"][unit~="#line"]
-[quantity="1"] {padding:10px;}
-
-titlePart.hi[rendition~="#small#uppercase"] {
-    font-size: 50%;text-transform:uppercase;
-}
+[rendition~="#expanded"] {
+letter-spacing:6px}
 
 
-titlePart.hi[rendition~="#red#xxlarge#uppercase"] {
-color:red;font-size:400% ;text-transform:uppercase }
-
-titlePart.hi.lb.space.hi.lb.space 
-[dim~="#vertical"][unit~="#line"]
-[quantity="1"] {padding:10px;}
-
-titlePart.hi [rendition~="#large#uppercase"] {
-font-size:100%;text-transform:uppercase;}
-
-titlePart.hi.lb.space.hi.lb.space.hi.lb.space 
-[dim~="#vertical"][unit~="#line"]
-[quantity="3"] {padding:30px;}
-
-titlePart.hi[rendition~="#large#uppercase"] {
-font-size:100%;text-transform:uppercase}
-
-titlePart.hi.lb.space.hi.lb.space.hi.lb.space.hi.space 
-[dim~="#vertical"][unit~="#line"]
-[quantity="4"] {padding:40px;}
-
-titlePart [rendition~="#uppercase"][type="main"]
-
-titlePart.lb.space [dim~="#vertical"][unit~="#line"]
-[quantity="1"] {padding:10px;}
-
-titlePart.hi[rendition~="#red#x-large"] {
-color:red;font-size:200%}
-
-titlePart.lb.space.hi.lb.space [dim~="#vertical"][unit~="#line"]
-[quantity="1"] {padding:10px;}
-
-titlePart.lb.space.hi.lb.space.space [dim~="#vertical"][unit~="#line"]
-[quantity="5"] {padding:50px;}
-
-
-
-docImprint [rendition~="#center#uppercase"] {
-    text-align:center;text-transform:uppercase
-}
-docImprint.publisher [rendition~="#red#expanded"] {
-color:red;letter-spacing:2px}
-
-docImprint.docDate [when~="1904"] [rendition~="#small"] {
-    font-size:50%
+docDate::before {
+  content: "1904";font-size:200%
 }
 
 
