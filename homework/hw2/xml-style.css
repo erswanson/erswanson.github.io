@@ -4,7 +4,7 @@ src: url("https://erswanson.github.io/css/CHANTICL.ttf") format("truetype")}
 
 
 * {
-    display:block;
+    display:block; font-family:'ChanticleerRoman'
 }
 
 lb {
@@ -48,8 +48,6 @@ space[quantity="4"] {padding:40px;}
 
 space[quantity="5"] {padding:80px;}
 
-
-titlePage{font-family:'ChanticleerRoman'}
 
 
 [rendition~="#expanded"] {
