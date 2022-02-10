@@ -43,6 +43,8 @@
     
     <xsl:template match="div/a"/>
     
+    
+    
         
         
     <xsl:template match="li/p[1]">
@@ -51,7 +53,7 @@
         </journal-record>
     </xsl:template>
     
-    <xsl:template match="/span">
+    <xsl:template match="p/span">
         <journal-institution>
             <xsl:apply-templates/>
         </journal-institution>
