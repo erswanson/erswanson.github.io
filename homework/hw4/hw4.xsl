@@ -5,6 +5,7 @@
     version="2.0">
     
     
+       
     <xsl:strip-space elements="*"/>
     
     <xsl:output indent="yes"/>
@@ -51,7 +52,7 @@
     
         
         
-    <xsl:template match="li/p[1]">
+    <xsl:template match="ul/li">
         <journal-record>
             <xsl:apply-templates/>
         </journal-record>
