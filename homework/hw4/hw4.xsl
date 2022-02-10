@@ -4,6 +4,7 @@
     exclude-result-prefixes="xs"
     version="2.0">
     
+    
     <xsl:strip-space elements="*"/>
     
     <xsl:output indent="yes"/>
@@ -18,14 +19,15 @@
         <xsl:apply-templates/>
     </xsl:template>
    
+   
     
-    
+    <xsl:template match="li">
+        <xsl:apply-templates/>
+    </xsl:template>
     
    
    
     <xsl:template match="head"/>
-    
-    <xsl:template match="meta"/>
     
     <xsl:template match="link"/>
     
@@ -37,11 +39,13 @@
     
     <xsl:template match="header"/>
     
-   
-    
-    <xsl:template match="nav/div/p"/>
+   <xsl:template match="nav/div/p"/>
     
     <xsl:template match="div/a"/>
+    
+    <xsl:template match="div/h1"/>
+    
+    
     
     
     
@@ -53,7 +57,7 @@
         </journal-record>
     </xsl:template>
     
-    <xsl:template match="p/span">
+    <xsl:template match="p[1]/span">
         <journal-institution>
             <xsl:apply-templates/>
         </journal-institution>
@@ -71,13 +75,14 @@
         </journal-website>
     </xsl:template>
     
-    <xsl:template match="li">
-        <xsl:apply-templates select="p[1]">
+    
+    
+    
+    <xsl:template match="ul">
+        <xsl:apply-templates select="li">
             <xsl:sort select="span" order="ascending"/>
         </xsl:apply-templates>
     </xsl:template>
-    
-   
     
     
    
