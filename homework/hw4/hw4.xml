@@ -1,559 +1,1058 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <journal-data>Undergraduate Research
                                 Journal Listing Undergraduate Research Journal Listing<journal-record>
-      <journal-website>https://newplainsreview.com/1890-uco/</journal-website> - University of Central Oklahoma</journal-record>
+      <journal-website>https://newplainsreview.com/1890-uco/</journal-website>
+      <journal-institution> - University of Central Oklahoma</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://scholars.fhsu.edu/aljsr/</journal-website> - Fort Hays State University</journal-record>
+      <journal-website>https://scholars.fhsu.edu/aljsr/</journal-website>
+      <journal-institution> - Fort Hays State University</journal-institution>
+   </journal-record>
    <journal-record>
       <journal-website>https://journals.aijr.in/index.php/ajgr</journal-website>
+      <journal-institution/>
    </journal-record>
    <journal-record>
-      <journal-website>https://aeolus.scholasticahq.com/</journal-website> - New College of Florida</journal-record>
+      <journal-website>https://aeolus.scholasticahq.com/</journal-website>
+      <journal-institution> - New College of Florida</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://www.bcalnoor.org</journal-website> - Boston College</journal-record>
+      <journal-website>https://www.bcalnoor.org</journal-website>
+      <journal-institution> - Boston College</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://aleph.humanities.ucla.edu/</journal-website> - UCLA</journal-record>
+      <journal-website>http://aleph.humanities.ucla.edu/</journal-website>
+      <journal-institution> - UCLA</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://orb.binghamton.edu/alpenglowjournal/</journal-website> - Binghamton University</journal-record>
+      <journal-website>https://orb.binghamton.edu/alpenglowjournal/</journal-website>
+      <journal-institution> - Binghamton University</journal-institution>
+   </journal-record>
    <journal-record>
       <journal-website>http://www.ajuronline.org/</journal-website>
+      <journal-institution/>
    </journal-record>
    <journal-record>
-      <journal-website>http://pdxscholar.library.pdx.edu/anthos/</journal-website> - Portland State University</journal-record>
+      <journal-website>http://pdxscholar.library.pdx.edu/anthos/</journal-website>
+      <journal-institution> - Portland State University</journal-institution>
+   </journal-record>
    <journal-record>
       <journal-website>http://anthrojournal.com/</journal-website>
+      <journal-institution/>
    </journal-record>
    <journal-record>
-      <journal-website>https://www2.fgcu.edu/Aquila/index.html</journal-website> - Florida Gulf Coast University</journal-record>
+      <journal-website>https://www2.fgcu.edu/Aquila/index.html</journal-website>
+      <journal-institution> - Florida Gulf Coast University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://digitalcommons.georgiasouthern.edu/aujh/</journal-website> - Armstrong State University </journal-record>
+      <journal-website>https://digitalcommons.georgiasouthern.edu/aujh/</journal-website>
+      <journal-institution> - Armstrong State University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.auctus.vcu.edu</journal-website> - Virginia Commonwealth University</journal-record>
+      <journal-website>http://www.auctus.vcu.edu</journal-website>
+      <journal-institution> - Virginia Commonwealth University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.auburn.edu/aujus</journal-website> - Auburn University</journal-record>
+      <journal-website>http://www.auburn.edu/aujus</journal-website>
+      <journal-institution> - Auburn University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://bsj.berkeley.edu/?page_id=546</journal-website> - University of California, Berkeley</journal-record>
+      <journal-website>http://bsj.berkeley.edu/?page_id=546</journal-website>
+      <journal-institution> - University of California, Berkeley</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://learning.berkeley.edu/buj/</journal-website> - University of California, Berkeley</journal-record>
+      <journal-website>http://learning.berkeley.edu/buj/</journal-website>
+      <journal-institution> - University of California, Berkeley</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://digitalcommons.butler.edu/bjur/</journal-website> - Butler University</journal-record>
+      <journal-website>http://digitalcommons.butler.edu/bjur/</journal-website>
+      <journal-institution> - Butler University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://curj.caltech.edu/</journal-website> - California Institute of Technology</journal-record>
+      <journal-website>http://curj.caltech.edu/</journal-website>
+      <journal-institution> - California Institute of Technology</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://cjur.ca/</journal-website> - University of British Columbia</journal-record>
+      <journal-website>https://cjur.ca/</journal-website>
+      <journal-institution> - University of British Columbia</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://caravel.sc.edu/</journal-website> - University of South Carolina</journal-record>
+      <journal-website>http://caravel.sc.edu/</journal-website>
+      <journal-institution> - University of South Carolina</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://www.carthage.edu/vanguard/</journal-website> - Carthage College</journal-record>
+      <journal-website>https://www.carthage.edu/vanguard/</journal-website>
+      <journal-institution> - Carthage College</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://catalyst.rice.edu/</journal-website> - Rice University</journal-record>
+      <journal-website>http://catalyst.rice.edu/</journal-website>
+      <journal-institution> - Rice University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://thecjfp.com/</journal-website> - The University of Chicago</journal-record>
+      <journal-website>https://thecjfp.com/</journal-website>
+      <journal-institution> - The University of Chicago</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://www.ocf.berkeley.edu/~clios/</journal-website> - University of California, Berkeley, Department
-                                                of History</journal-record>
+      <journal-website>https://www.ocf.berkeley.edu/~clios/</journal-website>
+      <journal-institution> - University of California, Berkeley, Department
+                                                of History</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://columbiaeconreview.com/</journal-website> - Columbia University</journal-record>
+      <journal-website>http://columbiaeconreview.com/</journal-website>
+      <journal-institution> - Columbia University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://cujh.columbia.edu/</journal-website> - Columbia University </journal-record>
+      <journal-website>http://cujh.columbia.edu/</journal-website>
+      <journal-institution> - Columbia University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://cusj.columbia.edu/</journal-website> - Columbia University </journal-record>
+      <journal-website>http://cusj.columbia.edu/</journal-website>
+      <journal-institution> - Columbia University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://compassjournal.org/</journal-website> - Northern Illinois University</journal-record>
+      <journal-website>https://compassjournal.org/</journal-website>
+      <journal-institution> - Northern Illinois University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.consiliencejournal.org/</journal-website> - Columbia University</journal-record>
+      <journal-website>http://www.consiliencejournal.org/</journal-website>
+      <journal-institution> - Columbia University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://corinthian.gcsu.edu/</journal-website> - Georgia College and State University</journal-record>
+      <journal-website>https://corinthian.gcsu.edu/</journal-website>
+      <journal-institution> - Georgia College and State University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.corruptedfiles.org.uk/</journal-website> - Ravensbourne, UK</journal-record>
+      <journal-website>http://www.corruptedfiles.org.uk/</journal-website>
+      <journal-institution> - Ravensbourne, UK</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://scholar.oxy.edu/ctsj/</journal-website> - Occidental College</journal-record>
+      <journal-website>http://scholar.oxy.edu/ctsj/</journal-website>
+      <journal-institution> - Occidental College</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://newprairiepress.org/crossingborders/</journal-website> - Kansas State University</journal-record>
+      <journal-website>http://newprairiepress.org/crossingborders/</journal-website>
+      <journal-institution> - Kansas State University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://digitalcommons.csumb.edu/csp/</journal-website> - California State University, Monterey
-                                                Bay</journal-record>
+      <journal-website>https://digitalcommons.csumb.edu/csp/</journal-website>
+      <journal-institution> - California State University, Monterey
+                                                Bay</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://via.library.depaul.edu/depaul-disc/</journal-website> - DePaul University College of Science and
-                                                Health</journal-record>
+      <journal-website>http://via.library.depaul.edu/depaul-disc/</journal-website>
+      <journal-institution> - DePaul University College of Science and
+                                                Health</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.digitalamerica.org</journal-website> - University of Richmond</journal-record>
+      <journal-website>http://www.digitalamerica.org</journal-website>
+      <journal-institution> - University of Richmond</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://bsu.edu/dlr</journal-website> - Ball State University</journal-record>
+      <journal-website>http://bsu.edu/dlr</journal-website>
+      <journal-institution> - Ball State University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://digitalcommons.usu.edu/urj/</journal-website> - Utah State University</journal-record>
+      <journal-website>http://digitalcommons.usu.edu/urj/</journal-website>
+      <journal-institution> - Utah State University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://scholarworks.uark.edu/discoverymag/</journal-website> - University of Arkansas</journal-record>
+      <journal-website>https://scholarworks.uark.edu/discoverymag/</journal-website>
+      <journal-institution> - University of Arkansas</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://scholarworks.gsu.edu/discovery/</journal-website> - Georgia State University</journal-record>
+      <journal-website>http://scholarworks.gsu.edu/discovery/</journal-website>
+      <journal-institution> - Georgia State University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://archives.smsu.edu/islandora/object/SMSUrepository%3A17433#page/1/mode/2up</journal-website> - Southwest Minnesota State University</journal-record>
+      <journal-website>https://archives.smsu.edu/islandora/object/SMSUrepository%3A17433#page/1/mode/2up</journal-website>
+      <journal-institution> - Southwest Minnesota State University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://discussionsjournal.com/</journal-website> - Case Western Reserve University</journal-record>
+      <journal-website>https://discussionsjournal.com/</journal-website>
+      <journal-institution> - Case Western Reserve University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.dillard.edu/images/stories/food/dujourfall2010.pdf</journal-website> - Dillard University</journal-record>
+      <journal-website>http://www.dillard.edu/images/stories/food/dujourfall2010.pdf</journal-website>
+      <journal-institution> - Dillard University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://dujs.dartmouth.edu/</journal-website> - Dartmouth College</journal-record>
+      <journal-website>http://dujs.dartmouth.edu/</journal-website>
+      <journal-institution> - Dartmouth College</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://ojs.csupueblo.edu/</journal-website> - Colorado State University-Pueblo</journal-record>
+      <journal-website>http://ojs.csupueblo.edu/</journal-website>
+      <journal-institution> - Colorado State University-Pueblo</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.bc.edu/research/elements/</journal-website> - Boston College</journal-record>
+      <journal-website>http://www.bc.edu/research/elements/</journal-website>
+      <journal-institution> - Boston College</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.elon.edu/e-web/academics/communications/research/</journal-website> - Elon University </journal-record>
+      <journal-website>http://www.elon.edu/e-web/academics/communications/research/</journal-website>
+      <journal-institution> - Elon University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://scholarblogs.emory.edu/eurj/</journal-website> - Emory University</journal-record>
+      <journal-website>https://scholarblogs.emory.edu/eurj/</journal-website>
+      <journal-institution> - Emory University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://cla.umn.edu/philosophy/undergraduate/real-world-experience/philosophy-undergraduate-journal</journal-website> - University of Minnesota-Twin Cities</journal-record>
+      <journal-website>https://cla.umn.edu/philosophy/undergraduate/real-world-experience/philosophy-undergraduate-journal</journal-website>
+      <journal-institution> - University of Minnesota-Twin Cities</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.capital.edu/epistimi/</journal-website> - Capital University</journal-record>
+      <journal-website>http://www.capital.edu/epistimi/</journal-website>
+      <journal-institution> - Capital University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://erisjournal.com/</journal-website> - Vrije Universiteit (VU) Amsterdam</journal-record>
+      <journal-website>https://erisjournal.com/</journal-website>
+      <journal-institution> - Vrije Universiteit (VU) Amsterdam</journal-institution>
+   </journal-record>
    <journal-record>
       <journal-website>http://evostudies.org/evos-journal/</journal-website>
+      <journal-institution/>
    </journal-record>
    <journal-record>
-      <journal-website>http://explorations.tamu.edu/</journal-website> - Texas A&amp;M University-College Station</journal-record>
+      <journal-website>http://explorations.tamu.edu/</journal-website>
+      <journal-institution> - Texas A&amp;M University-College Station</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://uncw.edu/csurf/Explorations/explorations.html</journal-website> - University of North Carolina Wilmington</journal-record>
+      <journal-website>http://uncw.edu/csurf/Explorations/explorations.html</journal-website>
+      <journal-institution> - University of North Carolina Wilmington</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://falsafaorg.com/</journal-website> - University of California, Irvine</journal-record>
+      <journal-website>https://falsafaorg.com/</journal-website>
+      <journal-institution> - University of California, Irvine</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://journals.fcla.edu/faurj</journal-website> - Florida Atlantic University</journal-record>
+      <journal-website>http://journals.fcla.edu/faurj</journal-website>
+      <journal-institution> - Florida Atlantic University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://www.fenjanupenn.com/</journal-website> - University of Pennsylvania</journal-record>
+      <journal-website>https://www.fenjanupenn.com/</journal-website>
+      <journal-institution> - University of Pennsylvania</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://finefocus.org/</journal-website> - Ball State University</journal-record>
+      <journal-website>http://finefocus.org/</journal-website>
+      <journal-institution> - Ball State University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://digitalcommons.lmu.edu/fgv/</journal-website> - Loyola Marymount University </journal-record>
+      <journal-website>http://digitalcommons.lmu.edu/fgv/</journal-website>
+      <journal-institution> - Loyola Marymount University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://forbes5.pitt.edu</journal-website> - University of Pittsburgh</journal-record>
+      <journal-website>http://forbes5.pitt.edu</journal-website>
+      <journal-institution> - University of Pittsburgh</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://openjournal.uni-oldenburg.de/index.php/forsch/index</journal-website> - Carl von Ossietzky University Oldenburg</journal-record>
+      <journal-website>http://openjournal.uni-oldenburg.de/index.php/forsch/index</journal-website>
+      <journal-institution> - Carl von Ossietzky University Oldenburg</journal-institution>
+   </journal-record>
    <journal-record>
       <journal-website>http://math.furman.edu/~mwoodard/fuejum/welcome.html</journal-website>
+      <journal-institution/>
    </journal-record>
    <journal-record>
-      <journal-website>http://gmreview.gmu.edu</journal-website> - George Mason University</journal-record>
+      <journal-website>http://gmreview.gmu.edu</journal-website>
+      <journal-institution> - George Mason University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://www.glocality.eu/</journal-website> - Windesheim Honours College, The
-                                                Netherlands</journal-record>
+      <journal-website>https://www.glocality.eu/</journal-website>
+      <journal-institution> - Windesheim Honours College, The
+                                                Netherlands</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://scholarworks.gvsu.edu/gvjh/</journal-website> - Grand Valley State University</journal-record>
+      <journal-website>http://scholarworks.gvsu.edu/gvjh/</journal-website>
+      <journal-institution> - Grand Valley State University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.facebook.com/harfjournal</journal-website> - McGill University</journal-record>
+      <journal-website>http://www.facebook.com/harfjournal</journal-website>
+      <journal-institution> - McGill University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://historymatters.appstate.edu/</journal-website> - Appalachian State University </journal-record>
+      <journal-website>http://historymatters.appstate.edu/</journal-website>
+      <journal-institution> - Appalachian State University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.ijsra.org/</journal-website> - Unaffiliated</journal-record>
+      <journal-website>http://www.ijsra.org/</journal-website>
+      <journal-institution> - Unaffiliated</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://illumin.usc.edu/</journal-website> - University of Southern California</journal-record>
+      <journal-website>http://illumin.usc.edu/</journal-website>
+      <journal-institution> - University of Southern California</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://www.illuminatenrhc.com/</journal-website> - Northeast Regional Honors Council</journal-record>
+      <journal-website>https://www.illuminatenrhc.com/</journal-website>
+      <journal-institution> - Northeast Regional Honors Council</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://impulse.appstate.edu/</journal-website> - Appalachian State University </journal-record>
+      <journal-website>http://impulse.appstate.edu/</journal-website>
+      <journal-institution> - Appalachian State University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://iujur.iu.edu/</journal-website> - Indiana University</journal-record>
+      <journal-website>https://iujur.iu.edu/</journal-website>
+      <journal-institution> - Indiana University</journal-institution>
+   </journal-record>
    <journal-record>
       <journal-website>http://www.inquiriesjournal.com/</journal-website>
+      <journal-institution/>
    </journal-record>
    <journal-record>
-      <journal-website>http://www.uab.edu/undergraduateresearch/</journal-website> - University of Alabama at Birmingham</journal-record>
+      <journal-website>http://www.uab.edu/undergraduateresearch/</journal-website>
+      <journal-institution> - University of Alabama at Birmingham</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.unh.edu/inquiryjournal/</journal-website> - University of New Hampshire</journal-record>
+      <journal-website>http://www.unh.edu/inquiryjournal/</journal-website>
+      <journal-institution> - University of New Hampshire</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://inquiry.uark.edu/</journal-website> - University of Arkansas</journal-record>
+      <journal-website>http://inquiry.uark.edu/</journal-website>
+      <journal-institution> - University of Arkansas</journal-institution>
+   </journal-record>
    <journal-record>
       <journal-website>http://icsjournal.org/</journal-website>
+      <journal-institution/>
    </journal-record>
    <journal-record>
       <journal-website>http://digitalcommons.wku.edu/ijes/</journal-website>
+      <journal-institution/>
    </journal-record>
    <journal-record>
-      <journal-website>http://commons.pacificu.edu/ijurca/</journal-website> - Pacific University </journal-record>
+      <journal-website>http://commons.pacificu.edu/ijurca/</journal-website>
+      <journal-institution> - Pacific University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://ojs.stanford.edu/ojs/index.php/intersect</journal-website> - Stanford University</journal-record>
+      <journal-website>http://ojs.stanford.edu/ojs/index.php/intersect</journal-website>
+      <journal-institution> - Stanford University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://depts.washington.edu/chid/intersections_Spring_2012/index.html</journal-website> - University of Washington</journal-record>
+      <journal-website>http://depts.washington.edu/chid/intersections_Spring_2012/index.html</journal-website>
+      <journal-institution> - University of Washington</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.aber.ac.uk/en/interpol/current-students/undergraduate/interstate/</journal-website> - Aberystwyth University</journal-record>
+      <journal-website>http://www.aber.ac.uk/en/interpol/current-students/undergraduate/interstate/</journal-website>
+      <journal-institution> - Aberystwyth University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://inventio.cua.edu/</journal-website> - The Catholic University of America</journal-record>
+      <journal-website>http://inventio.cua.edu/</journal-website>
+      <journal-institution> - The Catholic University of America</journal-institution>
+   </journal-record>
    <journal-record>
       <journal-website>http://msp.berkeley.edu/involve/about/cover/cover.html</journal-website>
+      <journal-institution/>
    </journal-record>
    <journal-record>
-      <journal-website>http://www.elon.edu/e-web/students/ipe/default.xhtml</journal-website> - Elon University &amp; Mary Washington University
-                                            </journal-record>
+      <journal-website>http://www.elon.edu/e-web/students/ipe/default.xhtml</journal-website>
+      <journal-institution> - Elon University &amp; Mary Washington University
+                                            </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://jsis.washington.edu/jsjournal/</journal-website> - University of Washington </journal-record>
+      <journal-website>https://jsis.washington.edu/jsjournal/</journal-website>
+      <journal-institution> - University of Washington </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.jmu.edu/jmurj/index.shtml</journal-website> - James Madison University</journal-record>
+      <journal-website>http://www.jmu.edu/jmurj/index.shtml</journal-website>
+      <journal-institution> - James Madison University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://jemi.microbiology.ubc.ca/</journal-website> - University of British Columbia</journal-record>
+      <journal-website>http://jemi.microbiology.ubc.ca/</journal-website>
+      <journal-institution> - University of British Columbia</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://undergraduateresearch.as.ua.edu/presenting-your-work/joshua/</journal-website> - University of Alabama</journal-record>
+      <journal-website>https://undergraduateresearch.as.ua.edu/presenting-your-work/joshua/</journal-website>
+      <journal-institution> - University of Alabama</journal-institution>
+   </journal-record>
    <journal-record>
       <journal-website>http://undergraduateethnography.org/</journal-website>
+      <journal-institution/>
    </journal-record>
    <journal-record>
-      <journal-website>http://curo.uga.edu/juro</journal-website> - The University of Georgia</journal-record>
+      <journal-website>http://curo.uga.edu/juro</journal-website>
+      <journal-institution> - The University of Georgia</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://jeps.efpsa.org/</journal-website> - European Federation of Psychology Students'
-                                                Association</journal-record>
+      <journal-website>http://jeps.efpsa.org/</journal-website>
+      <journal-institution> - European Federation of Psychology Students'
+                                                Association</journal-institution>
+   </journal-record>
    <journal-record>
       <journal-website>http://www.jiss.org/</journal-website>
+      <journal-institution/>
    </journal-record>
    <journal-record>
-      <journal-website>http://jiriri.ca/</journal-website> - Université de Montréal</journal-record>
+      <journal-website>http://jiriri.ca/</journal-website>
+      <journal-institution> - Université de Montréal</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://jps.library.utoronto.ca/index.php/nmcjournal</journal-website> - University of Toronto</journal-record>
+      <journal-website>https://jps.library.utoronto.ca/index.php/nmcjournal</journal-website>
+      <journal-institution> - University of Toronto</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.helvidius.org/</journal-website> - Columbia University</journal-record>
+      <journal-website>http://www.helvidius.org/</journal-website>
+      <journal-institution> - Columbia University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://view.fdu.edu/default.aspx?id=784</journal-website> - Fairleigh Dickinson University</journal-record>
+      <journal-website>http://view.fdu.edu/default.aspx?id=784</journal-website>
+      <journal-institution> - Fairleigh Dickinson University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://docs.lib.purdue.edu/jpur/</journal-website> - Purdue University </journal-record>
+      <journal-website>http://docs.lib.purdue.edu/jpur/</journal-website>
+      <journal-institution> - Purdue University </journal-institution>
+   </journal-record>
    <journal-record>
       <journal-website>http://www.jofsr.com/</journal-website>
+      <journal-institution/>
    </journal-record>
    <journal-record>
-      <journal-website>http://www.stu.edu/jsr</journal-website> - St. Thomas University</journal-record>
+      <journal-website>http://www.stu.edu/jsr</journal-website>
+      <journal-institution> - St. Thomas University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.vmi.edu/content.aspx?id=2150</journal-website> - Virginia Military Institute</journal-record>
+      <journal-website>http://www.vmi.edu/content.aspx?id=2150</journal-website>
+      <journal-institution> - Virginia Military Institute</journal-institution>
+   </journal-record>
    <journal-record>
       <journal-website>http://www.juempsychology.com/</journal-website>
+      <journal-institution/>
    </journal-record>
    <journal-record>
-      <journal-website>http://minds.wisconsin.edu/handle/1793/23588</journal-website> - University of Wisconsin- Eau Claire</journal-record>
+      <journal-website>http://minds.wisconsin.edu/handle/1793/23588</journal-website>
+      <journal-institution> - University of Wisconsin- Eau Claire</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://sa.rochester.edu/jur/index.html</journal-website> - University of Rochester</journal-record>
+      <journal-website>http://sa.rochester.edu/jur/index.html</journal-website>
+      <journal-institution> - University of Rochester</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://ufdc.ufl.edu/jur</journal-website> - University of Florida</journal-record>
+      <journal-website>http://ufdc.ufl.edu/jur</journal-website>
+      <journal-institution> - University of Florida</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://jur.colostate.edu/</journal-website> - Colorado State University </journal-record>
+      <journal-website>http://jur.colostate.edu/</journal-website>
+      <journal-institution> - Colorado State University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://research.utsa.edu/UG_Journal/index.html</journal-website> - University of Texas at San Antonio</journal-record>
+      <journal-website>http://research.utsa.edu/UG_Journal/index.html</journal-website>
+      <journal-institution> - University of Texas at San Antonio</journal-institution>
+   </journal-record>
    <journal-record>
       <journal-website>http://www.jurp.org/</journal-website>
+      <journal-institution/>
    </journal-record>
    <journal-record>
-      <journal-website>http://www.hcs.harvard.edu/~jus/home.html</journal-website> - Harvard University </journal-record>
+      <journal-website>http://www.hcs.harvard.edu/~jus/home.html</journal-website>
+      <journal-institution> - Harvard University </journal-institution>
+   </journal-record>
    <journal-record>
       <journal-website>http://www.jyi.org/</journal-website>
+      <journal-institution/>
    </journal-record>
    <journal-record>
-      <journal-website>http://encompass.eku.edu/kjus/</journal-website> - Eastern Kentucky University</journal-record>
+      <journal-website>http://encompass.eku.edu/kjus/</journal-website>
+      <journal-institution> - Eastern Kentucky University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.mga.edu/knowledgeatwork/knighted-journal.aspx</journal-website> - Middle Georgia State University</journal-record>
+      <journal-website>http://www.mga.edu/knowledgeatwork/knighted-journal.aspx</journal-website>
+      <journal-institution> - Middle Georgia State University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://www.salisbury.edu/administration/academic-affairs/graduate-studies-and-research/ourca/index.aspx</journal-website> - Salisbury University</journal-record>
+      <journal-website>https://www.salisbury.edu/administration/academic-affairs/graduate-studies-and-research/ourca/index.aspx</journal-website>
+      <journal-institution> - Salisbury University</journal-institution>
+   </journal-record>
    <journal-record>
       <journal-website>http://journals.berghahnbooks.com/ltss/index.php?pg=home</journal-website>
+      <journal-institution/>
    </journal-record>
    <journal-record>
-      <journal-website>http://www.lurj.org/</journal-website> - Lethbridge University </journal-record>
+      <journal-website>http://www.lurj.org/</journal-website>
+      <journal-institution> - Lethbridge University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://liveideasjournal.org/</journal-website> - Kansas State University</journal-record>
+      <journal-website>https://liveideasjournal.org/</journal-website>
+      <journal-institution> - Kansas State University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.missouristate.edu/logos/default.htm</journal-website> - Missouri State University</journal-record>
+      <journal-website>http://www.missouristate.edu/logos/default.htm</journal-website>
+      <journal-institution> - Missouri State University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://honors.umkc.edu/get-involved/lucerna/</journal-website> - University of Missouri-Kansas City</journal-record>
+      <journal-website>https://honors.umkc.edu/get-involved/lucerna/</journal-website>
+      <journal-institution> - University of Missouri-Kansas City</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://www.westga.edu/lure/</journal-website> - University of West Georgia</journal-record>
+      <journal-website>https://www.westga.edu/lure/</journal-website>
+      <journal-institution> - University of West Georgia</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://english.wisc.edu/TheMJLC/</journal-website> - University of Wisconsin-Madison</journal-record>
+      <journal-website>http://english.wisc.edu/TheMJLC/</journal-website>
+      <journal-institution> - University of Wisconsin-Madison</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.mappingpolitics.ca/</journal-website> - Memorial University of Newfoundland</journal-record>
+      <journal-website>http://www.mappingpolitics.ca/</journal-website>
+      <journal-institution> - Memorial University of Newfoundland</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.muw.edu/honors/merge</journal-website> - Mississippi University for women</journal-record>
+      <journal-website>http://www.muw.edu/honors/merge</journal-website>
+      <journal-institution> - Mississippi University for women</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://metamorphosis.coplac.org/index.php/metamorphosis</journal-website> - Council of Public Liberal Arts Colleges</journal-record>
+      <journal-website>https://metamorphosis.coplac.org/index.php/metamorphosis</journal-website>
+      <journal-institution> - Council of Public Liberal Arts Colleges</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://michiganjb.org/</journal-website> - University of Michigan</journal-record>
+      <journal-website>http://michiganjb.org/</journal-website>
+      <journal-institution> - University of Michigan</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://mjps.polisci.lsa.umich.edu/</journal-website> - University of Michigan</journal-record>
+      <journal-website>https://mjps.polisci.lsa.umich.edu/</journal-website>
+      <journal-institution> - University of Michigan</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://research.monm.edu/mjur</journal-website> - Monmouth College</journal-record>
+      <journal-website>http://research.monm.edu/mjur</journal-website>
+      <journal-institution> - Monmouth College</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.ucmo.edu/math-cs/journal/</journal-website> - University of Central Missouri</journal-record>
+      <journal-website>http://www.ucmo.edu/math-cs/journal/</journal-website>
+      <journal-institution> - University of Central Missouri</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://murj.mit.edu/</journal-website> - Massachusetts Institute of Technology</journal-record>
+      <journal-website>http://murj.mit.edu/</journal-website>
+      <journal-institution> - Massachusetts Institute of Technology</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://new.utc.edu/arts-and-sciences/psychology/mps</journal-website> - University of Tennessee at Chattanooga</journal-record>
+      <journal-website>https://new.utc.edu/arts-and-sciences/psychology/mps</journal-website>
+      <journal-institution> - University of Tennessee at Chattanooga</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://momentum.columbusstate.edu/</journal-website> - Columbus State University</journal-record>
+      <journal-website>http://momentum.columbusstate.edu/</journal-website>
+      <journal-institution> - Columbus State University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.webclearinghouse.net/</journal-website> - Missouri Western State University</journal-record>
+      <journal-website>http://www.webclearinghouse.net/</journal-website>
+      <journal-institution> - Missouri Western State University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://journals.psu.edu/ne/</journal-website> - Penn State University - Harrisburg</journal-record>
+      <journal-website>https://journals.psu.edu/ne/</journal-website>
+      <journal-institution> - Penn State University - Harrisburg</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.thenurj.com/</journal-website> - Northwestern University</journal-record>
+      <journal-website>http://www.thenurj.com/</journal-website>
+      <journal-institution> - Northwestern University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://inside.nku.edu/gero/isrca/nku-student-journals/Journal.html</journal-website> - Northern Kentucky University</journal-record>
+      <journal-website>https://inside.nku.edu/gero/isrca/nku-student-journals/Journal.html</journal-website>
+      <journal-institution> - Northern Kentucky University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://nyuappr.pubpub.org/</journal-website> - New York University</journal-record>
+      <journal-website>https://nyuappr.pubpub.org/</journal-website>
+      <journal-institution> - New York University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://oberlinost.wordpress.com/</journal-website> - Oberlin College</journal-record>
+      <journal-website>https://oberlinost.wordpress.com/</journal-website>
+      <journal-institution> - Oberlin College</journal-institution>
+   </journal-record>
    <journal-record>
       <journal-website>https://sites.google.com/site/marscijournal/</journal-website>
+      <journal-institution/>
    </journal-record>
    <journal-record>
       <journal-website>https://openamericas.org/</journal-website>
+      <journal-institution/>
    </journal-record>
    <journal-record>
-      <journal-website>https://www.uwosh.edu/osscap/present/oshkosh-scholar</journal-website> - University of Wisconsin Oshkosh</journal-record>
+      <journal-website>https://www.uwosh.edu/osscap/present/oshkosh-scholar</journal-website>
+      <journal-institution> - University of Wisconsin Oshkosh</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://ourj.uoregon.edu/</journal-website> - University of Oregon</journal-record>
+      <journal-website>http://ourj.uoregon.edu/</journal-website>
+      <journal-institution> - University of Oregon</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://digitalcommons.unf.edu/pandion_unf/</journal-website> - University of North Florida</journal-record>
+      <journal-website>https://digitalcommons.unf.edu/pandion_unf/</journal-website>
+      <journal-institution> - University of North Florida</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://digitalcommons.northgeorgia.edu/papersandpubs/</journal-website> - University of North Georgia</journal-record>
+      <journal-website>http://digitalcommons.northgeorgia.edu/papersandpubs/</journal-website>
+      <journal-institution> - University of North Georgia</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://ugresearchjournals.illinois.edu/index.php/preui/index</journal-website> - University of Illinois at
-                                                Urbana-Champaign</journal-record>
+      <journal-website>https://ugresearchjournals.illinois.edu/index.php/preui/index</journal-website>
+      <journal-institution> - University of Illinois at
+                                                Urbana-Champaign</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://bioethicsjournal.com/index.html</journal-website> - University of Pennsylvania</journal-record>
+      <journal-website>http://bioethicsjournal.com/index.html</journal-website>
+      <journal-institution> - University of Pennsylvania</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.pulj.org</journal-website> - University of Pennsylvania</journal-record>
+      <journal-website>http://www.pulj.org</journal-website>
+      <journal-institution> - University of Pennsylvania</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://www.uah.edu/perpetua</journal-website> - The University of Alabama in Huntsville</journal-record>
+      <journal-website>https://www.uah.edu/perpetua</journal-website>
+      <journal-institution> - The University of Alabama in Huntsville</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://blogs.elon.edu/purm/</journal-website> - Elon University </journal-record>
+      <journal-website>http://blogs.elon.edu/purm/</journal-website>
+      <journal-institution> - Elon University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://philologiavt.org/</journal-website> - Virginia Polytechnic Institute and State
-                                                University </journal-record>
+      <journal-website>https://philologiavt.org/</journal-website>
+      <journal-institution> - Virginia Polytechnic Institute and State
+                                                University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://pressbooks.lib.vt.edu/pper/</journal-website> - Virginia Tech</journal-record>
+      <journal-website>https://pressbooks.lib.vt.edu/pper/</journal-website>
+      <journal-institution> - Virginia Tech</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.psajournal.org/</journal-website> - Pi Sigma Alpha</journal-record>
+      <journal-website>http://www.psajournal.org/</journal-website>
+      <journal-institution> - Pi Sigma Alpha</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.pur.honorscollege.pitt.edu/</journal-website> - University of Pittsburgh</journal-record>
+      <journal-website>http://www.pur.honorscollege.pitt.edu/</journal-website>
+      <journal-institution> - University of Pittsburgh</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://popular-archaeology.com/page/the-student-scholar-program</journal-website> - The Student Scholar Program</journal-record>
+      <journal-website>http://popular-archaeology.com/page/the-student-scholar-program</journal-website>
+      <journal-institution> - The Student Scholar Program</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.princetoninnovation.org</journal-website> - Princeton University</journal-record>
+      <journal-website>http://www.princetoninnovation.org</journal-website>
+      <journal-institution> - Princeton University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://www.processjmus.org/</journal-website> - University of Washington</journal-record>
+      <journal-website>https://www.processjmus.org/</journal-website>
+      <journal-institution> - University of Washington</journal-institution>
+   </journal-record>
    <journal-record>
       <journal-website>http://www.psichi.org/?page=journal_main</journal-website>
+      <journal-institution/>
    </journal-record>
    <journal-record>
-      <journal-website>http://www.pvamu.edu/pursue/</journal-website> - Prairie View A &amp; M University</journal-record>
+      <journal-website>http://www.pvamu.edu/pursue/</journal-website>
+      <journal-institution> - Prairie View A &amp; M University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://trace.tennessee.edu/pursuit/</journal-website> - University of Tennessee at Knoxville</journal-record>
+      <journal-website>http://trace.tennessee.edu/pursuit/</journal-website>
+      <journal-institution> - University of Tennessee at Knoxville</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://qc-writers.com/</journal-website> - University of Cincinnati</journal-record>
+      <journal-website>http://qc-writers.com/</journal-website>
+      <journal-institution> - University of Cincinnati</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://www.quest-journal.org/contact</journal-website> - Queens University of Charlotte</journal-record>
+      <journal-website>https://www.quest-journal.org/contact</journal-website>
+      <journal-institution> - Queens University of Charlotte</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://ugresearchjournals.illinois.edu/index.php/ujlc/index</journal-website> - University of Illinois at
-                                                Urbana-Champaign</journal-record>
+      <journal-website>https://ugresearchjournals.illinois.edu/index.php/ujlc/index</journal-website>
+      <journal-institution> - University of Illinois at
+                                                Urbana-Champaign</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://www.cpp.edu/~our-cpp/publications/journals.shtml</journal-website> - Cal Poly Pomona</journal-record>
+      <journal-website>https://www.cpp.edu/~our-cpp/publications/journals.shtml</journal-website>
+      <journal-institution> - Cal Poly Pomona</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.recur.msu.edu/</journal-website> - Michigan State University </journal-record>
+      <journal-website>http://www.recur.msu.edu/</journal-website>
+      <journal-institution> - Michigan State University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www2.warwick.ac.uk/fac/cross_fac/iatl/reinvention/</journal-website> - Monash University &amp; The University of
-                                                Warwick</journal-record>
+      <journal-website>http://www2.warwick.ac.uk/fac/cross_fac/iatl/reinvention/</journal-website>
+      <journal-institution> - Monash University &amp; The University of
+                                                Warwick</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://www.mines.edu/undergraduate-research/reuleaux/</journal-website> - Chicago School of Mines</journal-record>
+      <journal-website>https://www.mines.edu/undergraduate-research/reuleaux/</journal-website>
+      <journal-institution> - Chicago School of Mines</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://www.jmu.edu/wrtc/students/undergraduate/rhet-tech.shtml</journal-website> - James Madison University </journal-record>
+      <journal-website>https://www.jmu.edu/wrtc/students/undergraduate/rhet-tech.shtml</journal-website>
+      <journal-institution> - James Madison University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.ricehistoricalreview.org/</journal-website> - Rice University</journal-record>
+      <journal-website>http://www.ricehistoricalreview.org/</journal-website>
+      <journal-institution> - Rice University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://blogs.webster.edu/humanrights/</journal-website> - Webster University</journal-record>
+      <journal-website>http://blogs.webster.edu/humanrights/</journal-website>
+      <journal-institution> - Webster University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://scholarship.rollins.edu/rurj/</journal-website> - Rollins University </journal-record>
+      <journal-website>http://scholarship.rollins.edu/rurj/</journal-website>
+      <journal-institution> - Rollins University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.rose-hulman.edu/mathjournal/</journal-website> - Rose-Hulman Institute of Technology</journal-record>
+      <journal-website>http://www.rose-hulman.edu/mathjournal/</journal-website>
+      <journal-institution> - Rose-Hulman Institute of Technology</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.roshangarumd.com/</journal-website> - Roshan Institute for Persian Studies, School of
+      <journal-website>http://www.roshangarumd.com/</journal-website>
+      <journal-institution> - Roshan Institute for Persian Studies, School of
                                                 Languages, Literatures, and Cultures, University of
-                                                Maryland, College Park</journal-record>
+                                                Maryland, College Park</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://digitalcommons.unl.edu/rurals/</journal-website> - University of Nebraska-Lincoln</journal-record>
+      <journal-website>http://digitalcommons.unl.edu/rurals/</journal-website>
+      <journal-institution> - University of Nebraska-Lincoln</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://sqonline.ucsd.edu/</journal-website> - University of California, San Diego
-                                                (UCSD)</journal-record>
+      <journal-website>https://sqonline.ucsd.edu/</journal-website>
+      <journal-institution> - University of California, San Diego
+                                                (UCSD)</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://web.monroecc.edu/manila/webfiles/scholarsday/SDR.html</journal-website> - Monroe Community College, Rochester, NY</journal-record>
+      <journal-website>http://web.monroecc.edu/manila/webfiles/scholarsday/SDR.html</journal-website>
+      <journal-institution> - Monroe Community College, Rochester, NY</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://issuu.com/baylor_scientia</journal-website> - Baylor University</journal-record>
+      <journal-website>http://issuu.com/baylor_scientia</journal-website>
+      <journal-institution> - Baylor University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://capone.mtsu.edu/scientia/ojs/index.php/seth</journal-website> - Middle Tennessee State University </journal-record>
+      <journal-website>http://capone.mtsu.edu/scientia/ojs/index.php/seth</journal-website>
+      <journal-institution> - Middle Tennessee State University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://scientificterrapin.umd.edu</journal-website> - University of Maryland, College Park</journal-record>
+      <journal-website>http://scientificterrapin.umd.edu</journal-website>
+      <journal-institution> - University of Maryland, College Park</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.siam.org/students/siuro/</journal-website> - The Society For Industrial and Applied
-                                                Mathematics (SIAM)</journal-record>
+      <journal-website>http://www.siam.org/students/siuro/</journal-website>
+      <journal-institution> - The Society For Industrial and Applied
+                                                Mathematics (SIAM)</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://digitalcommons.providence.edu/sbg/</journal-website> - Providence College</journal-record>
+      <journal-website>https://digitalcommons.providence.edu/sbg/</journal-website>
+      <journal-institution> - Providence College</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.scinternationalreview.org</journal-website> - Southern California International Review</journal-record>
+      <journal-website>http://www.scinternationalreview.org</journal-website>
+      <journal-institution> - Southern California International Review</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.spectrumjournal.ca</journal-website> - University of Alberta</journal-record>
+      <journal-website>http://www.spectrumjournal.ca</journal-website>
+      <journal-institution> - University of Alberta</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.sporajournal.org/</journal-website> - Intercollegiate Biomathematics Alliance</journal-record>
+      <journal-website>http://www.sporajournal.org/</journal-website>
+      <journal-institution> - Intercollegiate Biomathematics Alliance</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://www.stancephilosophy.com/</journal-website> - Ball State University</journal-record>
+      <journal-website>https://www.stancephilosophy.com/</journal-website>
+      <journal-institution> - Ball State University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://surj.stanford.edu/</journal-website> - Stanford University </journal-record>
+      <journal-website>http://surj.stanford.edu/</journal-website>
+      <journal-institution> - Stanford University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.surjatclarku.com/</journal-website> - Clark University</journal-record>
+      <journal-website>http://www.surjatclarku.com/</journal-website>
+      <journal-institution> - Clark University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://journals.tdl.org/txstate/index.php/txstate</journal-website> - Honors College Texas State University</journal-record>
+      <journal-website>http://journals.tdl.org/txstate/index.php/txstate</journal-website>
+      <journal-institution> - Honors College Texas State University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://texasurj.com/wp/</journal-website> - University of Texas at Austin</journal-record>
+      <journal-website>http://texasurj.com/wp/</journal-website>
+      <journal-institution> - University of Texas at Austin</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://augusta.openrepository.com/augusta/handle/10675.2/561321</journal-website> - Augusta University </journal-record>
+      <journal-website>http://augusta.openrepository.com/augusta/handle/10675.2/561321</journal-website>
+      <journal-institution> - Augusta University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://burj.beloit.edu</journal-website> - Beloit College</journal-record>
+      <journal-website>http://burj.beloit.edu</journal-website>
+      <journal-institution> - Beloit College</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.bioe.umd.edu/sites/default/files/documents/thecatalyst-issue1.pdf</journal-website> - University of Maryland</journal-record>
+      <journal-website>http://www.bioe.umd.edu/sites/default/files/documents/thecatalyst-issue1.pdf</journal-website>
+      <journal-institution> - University of Maryland</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://thecjfp.com</journal-website> - The University of Chicago</journal-record>
+      <journal-website>https://thecjfp.com</journal-website>
+      <journal-institution> - The University of Chicago</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://theclassicjournal.uga.edu/index.php/about/</journal-website> - University of Georgia</journal-record>
+      <journal-website>http://theclassicjournal.uga.edu/index.php/about/</journal-website>
+      <journal-institution> - University of Georgia</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://thecontemporarygroup.com/</journal-website> - Trinity University </journal-record>
+      <journal-website>https://thecontemporarygroup.com/</journal-website>
+      <journal-institution> - Trinity University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.developingeconomist.com/</journal-website> - University of Texas at Austin</journal-record>
+      <journal-website>http://www.developingeconomist.com/</journal-website>
+      <journal-institution> - University of Texas at Austin</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://sites.psu.edu/dialectics/</journal-website> - Pennsylvania State University </journal-record>
+      <journal-website>http://sites.psu.edu/dialectics/</journal-website>
+      <journal-institution> - Pennsylvania State University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://www.drew.edu/library/special-collections-archives/university-archives/drewpubs/</journal-website> - Drew University</journal-record>
+      <journal-website>https://www.drew.edu/library/special-collections-archives/university-archives/drewpubs/</journal-website>
+      <journal-institution> - Drew University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://eaglefeather.honors.unt.edu/</journal-website> - University of North Texas</journal-record>
+      <journal-website>http://eaglefeather.honors.unt.edu/</journal-website>
+      <journal-institution> - University of North Texas</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.fordham.edu/academics/colleges__graduate_s/undergraduate_colleg/fordham_college_at_r/undergraduate_resear/the_fordham_undergra/</journal-website> - Fordham University </journal-record>
+      <journal-website>http://www.fordham.edu/academics/colleges__graduate_s/undergraduate_colleg/fordham_college_at_r/undergraduate_resear/the_fordham_undergra/</journal-website>
+      <journal-institution> - Fordham University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://cupola.gettysburg.edu/gcjcwe/</journal-website> - Gettysburg College</journal-record>
+      <journal-website>http://cupola.gettysburg.edu/gcjcwe/</journal-website>
+      <journal-institution> - Gettysburg College</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://cupola.gettysburg.edu/ghj/</journal-website> - Gettysburg College</journal-record>
+      <journal-website>http://cupola.gettysburg.edu/ghj/</journal-website>
+      <journal-institution> - Gettysburg College</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://www.gradmath.org/</journal-website> - Mediterranean Institute for the Mathematical
-                                                Sciences</journal-record>
+      <journal-website>https://www.gradmath.org/</journal-website>
+      <journal-institution> - Mediterranean Institute for the Mathematical
+                                                Sciences</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://isuwriting.com/grassroots/</journal-website> - Illinois State University</journal-record>
+      <journal-website>http://isuwriting.com/grassroots/</journal-website>
+      <journal-institution> - Illinois State University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.thurj.org</journal-website> - Harvard University</journal-record>
+      <journal-website>http://www.thurj.org</journal-website>
+      <journal-institution> - Harvard University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://honorsreview.wordpress.com/</journal-website> - Augsburg College</journal-record>
+      <journal-website>http://honorsreview.wordpress.com/</journal-website>
+      <journal-institution> - Augsburg College</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://wp.nyu.edu/interdependent/</journal-website> - New York University</journal-record>
+      <journal-website>https://wp.nyu.edu/interdependent/</journal-website>
+      <journal-institution> - New York University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.qscience.com/page/ijur-set/ji_ijur-set</journal-website> - Qatar Foundation</journal-record>
+      <journal-website>http://www.qscience.com/page/ijur-set/ji_ijur-set</journal-website>
+      <journal-institution> - Qatar Foundation</journal-institution>
+   </journal-record>
    <journal-record>
       <journal-website>http://www.tijoss.com/</journal-website>
+      <journal-institution/>
    </journal-record>
    <journal-record>
-      <journal-website>http://kennesawtower.kennesaw.edu/</journal-website> - Kennesaw State University</journal-record>
+      <journal-website>http://kennesawtower.kennesaw.edu/</journal-website>
+      <journal-institution> - Kennesaw State University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://journals.tdl.org/measure/index.php/measure/index</journal-website> - Sam Houston State University</journal-record>
+      <journal-website>https://journals.tdl.org/measure/index.php/measure/index</journal-website>
+      <journal-institution> - Sam Houston State University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://cupola.gettysburg.edu/mercury/</journal-website> - Gettysburg College</journal-record>
+      <journal-website>http://cupola.gettysburg.edu/mercury/</journal-website>
+      <journal-institution> - Gettysburg College</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://midwayreview.uchicago.edu</journal-website> - The University of Chicago</journal-record>
+      <journal-website>http://midwayreview.uchicago.edu</journal-website>
+      <journal-institution> - The University of Chicago</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://morningsidereview.org</journal-website> - Columbia University</journal-record>
+      <journal-website>http://morningsidereview.org</journal-website>
+      <journal-institution> - Columbia University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://northstarreports.org/write-for-us/</journal-website> - The North Star Reports</journal-record>
+      <journal-website>http://northstarreports.org/write-for-us/</journal-website>
+      <journal-institution> - The North Star Reports</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://scholarcommons.sc.edu/tor/</journal-website> - University of South Carolina Aiken</journal-record>
+      <journal-website>https://scholarcommons.sc.edu/tor/</journal-website>
+      <journal-institution> - University of South Carolina Aiken</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://journals.flvc.org/owl/index</journal-website> - Florida State University</journal-record>
+      <journal-website>https://journals.flvc.org/owl/index</journal-website>
+      <journal-institution> - Florida State University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://thepolitic.org/</journal-website> - Yale University </journal-record>
+      <journal-website>http://thepolitic.org/</journal-website>
+      <journal-institution> - Yale University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://math.csudh.edu/pumpjournal/index.php/pump</journal-website> - California State University</journal-record>
+      <journal-website>https://math.csudh.edu/pumpjournal/index.php/pump</journal-website>
+      <journal-institution> - California State University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://thetriplehelix.uchicago.edu/</journal-website> - University of Chicago</journal-record>
+      <journal-website>http://thetriplehelix.uchicago.edu/</journal-website>
+      <journal-institution> - University of Chicago</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.urop.uci.edu/journal.html</journal-website> - University of California, Irvine</journal-record>
+      <journal-website>http://www.urop.uci.edu/journal.html</journal-website>
+      <journal-institution> - University of California, Irvine</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.undergraduateawards.com/prizedetails/journal/</journal-website> - The Undergraduate Awards</journal-record>
+      <journal-website>http://www.undergraduateawards.com/prizedetails/journal/</journal-website>
+      <journal-institution> - The Undergraduate Awards</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://theword.su.domains/</journal-website> - Stanford University</journal-record>
+      <journal-website>https://theword.su.domains/</journal-website>
+      <journal-institution> - Stanford University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.yale.edu/yrurp/</journal-website> - Yale University </journal-record>
+      <journal-website>http://www.yale.edu/yrurp/</journal-website>
+      <journal-institution> - Yale University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.tuftscope.squarespace.com</journal-website> - Tufts University</journal-record>
+      <journal-website>http://www.tuftscope.squarespace.com</journal-website>
+      <journal-institution> - Tufts University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://ucbcluj.org/</journal-website> - University of California, Berkeley</journal-record>
+      <journal-website>https://ucbcluj.org/</journal-website>
+      <journal-institution> - University of California, Berkeley</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://ssp.ucr.edu/journal/</journal-website> - UC Riverside</journal-record>
+      <journal-website>http://ssp.ucr.edu/journal/</journal-website>
+      <journal-institution> - UC Riverside</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://www.urj.ucf.edu/</journal-website> - University of Central Florida</journal-record>
+      <journal-website>https://www.urj.ucf.edu/</journal-website>
+      <journal-institution> - University of Central Florida</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://uclausj.weebly.com/</journal-website> - University of California, Los Angeles</journal-record>
+      <journal-website>https://uclausj.weebly.com/</journal-website>
+      <journal-institution> - University of California, Los Angeles</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://umurjournal.wix.com/umurj</journal-website> - University of Mississippi</journal-record>
+      <journal-website>http://umurjournal.wix.com/umurj</journal-website>
+      <journal-institution> - University of Mississippi</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://uncjourney.unc.edu/</journal-website> - UNC Chapel Hill</journal-record>
+      <journal-website>https://uncjourney.unc.edu/</journal-website>
+      <journal-institution> - UNC Chapel Hill</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://www.ocf.berkeley.edu/~uea/</journal-website> - University of California, Berkeley</journal-record>
+      <journal-website>https://www.ocf.berkeley.edu/~uea/</journal-website>
+      <journal-institution> - University of California, Berkeley</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://digitalcommons.iwu.edu/uer/</journal-website> - Illinois Wesleyan University </journal-record>
+      <journal-website>http://digitalcommons.iwu.edu/uer/</journal-website>
+      <journal-institution> - Illinois Wesleyan University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://digitalcommons.fairfield.edu/jogc/</journal-website> - Fairfield University </journal-record>
+      <journal-website>http://digitalcommons.fairfield.edu/jogc/</journal-website>
+      <journal-institution> - Fairfield University </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://www.carleton.edu/ujhs/</journal-website> - Carleton College</journal-record>
+      <journal-website>https://www.carleton.edu/ujhs/</journal-website>
+      <journal-institution> - Carleton College</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://scholarcommons.usf.edu/ujmm/</journal-website> - University of South Florida (USF)</journal-record>
+      <journal-website>http://scholarcommons.usf.edu/ujmm/</journal-website>
+      <journal-institution> - University of South Florida (USF)</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://ujpb.org</journal-website> - UC Berkeley</journal-record>
+      <journal-website>http://ujpb.org</journal-website>
+      <journal-institution> - UC Berkeley</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://berks.psu.edu/undergraduate-journal</journal-website> - Penn State Berks</journal-record>
+      <journal-website>https://berks.psu.edu/undergraduate-journal</journal-website>
+      <journal-institution> - Penn State Berks</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://www.lsuajournal.org/</journal-website> - Louisiana State University of Alexandria</journal-record>
+      <journal-website>https://www.lsuajournal.org/</journal-website>
+      <journal-institution> - Louisiana State University of Alexandria</journal-institution>
+   </journal-record>
    <journal-record>
       <journal-website>https://www.urncst.com/</journal-website>
+      <journal-institution/>
    </journal-record>
    <journal-record>
-      <journal-website>https://undergraduateresearch.org/</journal-website> - Georgia College &amp; State University</journal-record>
+      <journal-website>https://undergraduateresearch.org/</journal-website>
+      <journal-institution> - Georgia College &amp; State University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://www.iusb.edu/ugr-journal/</journal-website> - Indiana University South Bend</journal-record>
+      <journal-website>https://www.iusb.edu/ugr-journal/</journal-website>
+      <journal-institution> - Indiana University South Bend</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.kon.org/urc/urc_research_journal.html</journal-website> - Kappa Omicron Nu</journal-record>
+      <journal-website>http://www.kon.org/urc/urc_research_journal.html</journal-website>
+      <journal-institution> - Kappa Omicron Nu</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://urjp.psych.ucla.edu/</journal-website> - UCLA</journal-record>
+      <journal-website>https://urjp.psych.ucla.edu/</journal-website>
+      <journal-institution> - UCLA</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://urj.library.iit.edu/index.php/urj</journal-website> - Illinois Tech</journal-record>
+      <journal-website>http://urj.library.iit.edu/index.php/urj</journal-website>
+      <journal-institution> - Illinois Tech</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://umurj.org/</journal-website> - University of Michigan</journal-record>
+      <journal-website>http://umurj.org/</journal-website>
+      <journal-institution> - University of Michigan</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.nchc-ureca.com</journal-website> - National Collegiate Honors Council</journal-record>
+      <journal-website>http://www.nchc-ureca.com</journal-website>
+      <journal-institution> - National Collegiate Honors Council</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://urje.aucegypt.edu/</journal-website> - The American University in Cairo</journal-record>
+      <journal-website>https://urje.aucegypt.edu/</journal-website>
+      <journal-institution> - The American University in Cairo</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.usask.ca/usurj</journal-website> - University of Saskatchewan</journal-record>
+      <journal-website>http://www.usask.ca/usurj</journal-website>
+      <journal-institution> - University of Saskatchewan</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://falconcommons.utpb.edu/utpb-jour/</journal-website> - University of Texas Permian Basin</journal-record>
+      <journal-website>https://falconcommons.utpb.edu/utpb-jour/</journal-website>
+      <journal-institution> - University of Texas Permian Basin</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.lvc.edu/vhr/</journal-website> - Lebanon Valley College</journal-record>
+      <journal-website>http://www.lvc.edu/vhr/</journal-website>
+      <journal-institution> - Lebanon Valley College</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://vanderbilthistoricalreview.com/</journal-website> - Vanderbilt University</journal-record>
+      <journal-website>http://vanderbilthistoricalreview.com/</journal-website>
+      <journal-institution> - Vanderbilt University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://ejournals.library.vanderbilt.edu/ojs/index.php/vurj/index</journal-website> - Vanderbilt University</journal-record>
+      <journal-website>http://ejournals.library.vanderbilt.edu/ojs/index.php/vurj/index</journal-website>
+      <journal-institution> - Vanderbilt University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://philosophy.vassar.edu/students/journal/</journal-website> - Vassar College </journal-record>
+      <journal-website>http://philosophy.vassar.edu/students/journal/</journal-website>
+      <journal-institution> - Vassar College </journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://www.vjgs.org/</journal-website> - University of Virginia</journal-record>
+      <journal-website>https://www.vjgs.org/</journal-website>
+      <journal-institution> - University of Virginia</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.whedonstudies.tv/watcher-junior-the-undergraduate-journal-of-whedon-studies.html</journal-website> - University of Maine at Farmington</journal-record>
+      <journal-website>http://www.whedonstudies.tv/watcher-junior-the-undergraduate-journal-of-whedon-studies.html</journal-website>
+      <journal-institution> - University of Maine at Farmington</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://wurj.org/</journal-website> - Worcester Polytechnic Institute</journal-record>
+      <journal-website>https://wurj.org/</journal-website>
+      <journal-institution> - Worcester Polytechnic Institute</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://www.xchanges.org/</journal-website> - University of New Mexico</journal-record>
+      <journal-website>http://www.xchanges.org/</journal-website>
+      <journal-institution> - University of New Mexico</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://xulanexus.xula.edu/textpattern/</journal-website> - Xavier University of Louisiana</journal-record>
+      <journal-website>http://xulanexus.xula.edu/textpattern/</journal-website>
+      <journal-institution> - Xavier University of Louisiana</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://www.yalehistoricalreview.org</journal-website> - Yale University</journal-record>
+      <journal-website>https://www.yalehistoricalreview.org</journal-website>
+      <journal-institution> - Yale University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>https://yurj.yale.edu/</journal-website> - Yale University</journal-record>
+      <journal-website>https://yurj.yale.edu/</journal-website>
+      <journal-institution> - Yale University</journal-institution>
+   </journal-record>
    <journal-record>
-      <journal-website>http://arc.lib.montana.edu/ojs/index.php/Young-Scholars-In-Writing/index</journal-website> - Montana State University </journal-record>Advertise Your Undergraduate Research
+      <journal-website>http://arc.lib.montana.edu/ojs/index.php/Young-Scholars-In-Writing/index</journal-website>
+      <journal-institution> - Montana State University </journal-institution>
+   </journal-record>Advertise Your Undergraduate Research
                                             Journal!EngageThird Party Site DisclaimerYou are about to view website outside of www.cur.org. The website you are
                             about to view is hosted by a third party and they are solely responsible
-                            for the content and privacy policies.</journal-data>
+                            for the content and privacy policies.<journal-institution/>
+   <journal-institution/>
+</journal-data>
