@@ -64,5 +64,6 @@
         <xsl:apply-templates/>
     </xsl:template>
 
+    <xsl:template match="front/note"> </xsl:template>
 
 </xsl:stylesheet>
