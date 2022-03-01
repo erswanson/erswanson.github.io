@@ -20,51 +20,41 @@
          to be overridden here. -->
     <xsl:import href="teibp.xsl"/>
     
+    
+    <rendition xml:id="blockquote" n="tiebp:blockquote" scheme="css">
+        display:block;
+        font-size:90%;
+        margin-left:3em;
+        padding-left:1em;
+        border-left: 1px solid gray;
+        margin-top:.75em;
+        margin-bottom:.75em;
+        padding-top:.75em;
+        padding-bottom:.75em;
+    </rendition>
+    
+    
     <xsl:strip-space elements="*"/>
     
-    <xsl:output indent="no"/>
+    <xsl:output indent="yes"/>
     
     
-        
-    <xsl:template match="node() | @*">
-        <xsl:copy>
-            <xsl:apply-templates select="node() |@*"/>
-        </xsl:copy>
-    </xsl:template>
+     <xsl:template match="titlePart">
+         <xsl:apply-templates>
+               </xsl:apply-templates>
+     </xsl:template>
+    
     
     <xsl:template match="/">
             <xsl:apply-templates/>
     </xsl:template>
  
- <titlePart rendition="#center" ></titlePart>
+ <titlePart rendition=" #u #center" ></titlePart>
     
  
         
     
-    <xsl:template match="TEI">
-        
-        <xsl:apply-templates/>
-        
-    </xsl:template>
-    
-    <xsl:template match="TEI:revisionDesc">
-        <xsl:copy>
-            <xsl:apply-templates/>
-            <xsl:element name="change" namespace="http://www.tei-c.org/ns/1.0">
-                <xsl:attribute name="who">Eric Swanson</xsl:attribute>
-                <xsl:attribute name="when">2022-02-28</xsl:attribute>
-                <xsl:text>Final Project, utilizing TEI Boilerplate</xsl:text>
-            </xsl:element>
-        </xsl:copy>
-    </xsl:template>
-    
-    <xsl:template match="text">
-        <xsl:apply-templates/>
-    </xsl:template>
-    
-    <xsl:template match="pb">
-        <xsl:apply-templates/>
-    </xsl:template>
-
+   
+   
 
 </xsl:stylesheet>
