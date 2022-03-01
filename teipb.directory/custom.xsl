@@ -20,7 +20,7 @@
          to be overridden here. -->
     <xsl:import href="teibp.xsl"/>
     
-    <xsl:strip-space elements="yes"/>
+    <xsl:strip-space elements="*"/>
     
     <xsl:output indent="yes"/>
     
