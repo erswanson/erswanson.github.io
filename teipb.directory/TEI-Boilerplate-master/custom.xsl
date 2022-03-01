@@ -11,6 +11,7 @@
     xmlns="http://www.w3.org/1999/xhtml" 
     xmlns:html="http://www.w3.org/1999/xhtml" 
     xmlns:TEI="http://www.whitmanarchive.org/namespace" xml:id="ppp.00271"
+    
     exclude-result-prefixes="xsl tei xd eg fn #default">
     
     
@@ -19,11 +20,12 @@
          to be overridden here. -->
     <xsl:import href="teibp.xsl"/>
     
-    <xsl:strip-space elements="yes"/>
+    <xsl:strip-space elements="*"/>
     
-    <xsl:output indent="yes"/>
+    <xsl:output indent="no"/>
     
     
+        
     <xsl:template match="node() | @*">
         <xsl:copy>
             <xsl:apply-templates select="node() |@*"/>
@@ -34,7 +36,7 @@
             <xsl:apply-templates/>
     </xsl:template>
  
-    <xsl:template match="/"/>
+ <titlePart rendition="#center" ></titlePart>
     
  
         
@@ -64,6 +66,5 @@
         <xsl:apply-templates/>
     </xsl:template>
 
-    <xsl:template match="front/note"> </xsl:template>
 
 </xsl:stylesheet>
