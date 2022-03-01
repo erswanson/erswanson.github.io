@@ -22,7 +22,7 @@
     
     <xsl:strip-space elements="*"/>
     
-    <xsl:output indent="yes"/>
+    <xsl:output indent="no"/>
     
     
         
@@ -36,7 +36,7 @@
             <xsl:apply-templates/>
     </xsl:template>
  
- <titlePart rendition="#center" ></titlePart>
+ <titlePart rendition=" #u #center" ></titlePart>
     
  
         
