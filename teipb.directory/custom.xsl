@@ -23,6 +23,15 @@
     <xsl:strip-space elements="*"/>
 
     <xsl:output indent="yes"/>
+    
+    
+    <rendition xml:id="blue" scheme="css">
+        color:blue;
+    </rendition>
+    <rendition xml:id="b" n="teibp:bold" scheme="css">
+        font-weight:bold;
+    </rendition> 
+    
 
 
     <xsl:template match="TEI">
